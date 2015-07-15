@@ -70,4 +70,4 @@ deployment:
 notify:
   webhooks:
     # A list of hashes representing hooks. Only the url field is supported.
-    - url: http://54.148.211.150/circleci/4269ef955f8ec1d9369e130f
+    - url: http://54.148.211.150/circleci/be58d3f34a0b7f5ad7fb962e
