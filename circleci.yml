@@ -65,9 +65,8 @@ deployment:
     branch: master
     heroku:
       appname: foo-bar-123
-
 ## Custom notifications
 notify:
   webhooks:
     # A list of hashes representing hooks. Only the url field is supported.
-    - url: http://54.148.211.150/circleci/be58d3f34a0b7f5ad7fb962e
+    - url: http://54.148.211.150/circleci/4ca8430e5d05c5bda026351e
